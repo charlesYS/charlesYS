@@ -1,7 +1,7 @@
 ### Hi there 👋 calmou, tem nada pronto ainda
 
 
-[![Meu Perfil rocketseat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-blue)](https://app.rocketseat.com.br/me/charles-mendes-05779)
+[![Meu Perfil rocketseat](https://img.shields.io/badge/-Rocketseat-blue](https://app.rocketseat.com.br/me/charles-mendes-05779)
 <!--
 **charlesYS/charlesYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
