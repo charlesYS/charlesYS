@@ -1,6 +1,6 @@
 ### Hi there 👋 calmou, tem nada pronto ainda
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/charles-mendes-de-lima-5394a61b9/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-4169E1?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/charles-mendes-de-lima-5394a61b9/)
 [![Meu Perfil rocketseat](https://img.shields.io/badge/-Rocketseat-blue)](https://app.rocketseat.com.br/me/charles-mendes-05779)
 <!--
 **charlesYS/charlesYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
